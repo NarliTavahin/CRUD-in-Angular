@@ -22,7 +22,7 @@ The app allows users to perform basic operations on user data, including fetchin
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/CRUD-Application-in-Angular-with-a-real-API.git
+   git clone https://github.com/NarliTavahin/CRUD-in-Angular.git
    cd CRUD-Application-in-Angular-with-a-real-API
    ```
 
@@ -105,3 +105,4 @@ this.httpClient.get('https://reqres.in/api/users')
 ---
 
 Feel free to open issues for bugs or improvements. Happy coding! 🚀
+
