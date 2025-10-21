@@ -69,7 +69,6 @@ Here’s a video demonstration of how the application works:
 
 [Watch Video](https://github.com/NarliTavahin/CRUD-in-Angular/blob/main/photos-videos/CRUD.mp4)
 
-Make sure to replace `link-to-video.mp4` with the actual URL where the video is hosted (e.g., YouTube, Vimeo, or your own server).
 
 ## Technologies Used
 
@@ -105,5 +104,6 @@ this.httpClient.get('https://reqres.in/api/users')
 ---
 
 Feel free to open issues for bugs or improvements. Happy coding! 🚀
+
 
 
